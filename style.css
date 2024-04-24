@@ -1,4 +1,38 @@
-h1 {color: aqua;
+h1 {
+    color: aqua;
 }
-img {width: 40%;
+
+img {
+    width: 40%;
 }
+
+img {
+    border-style: groove;
+}
+
+img {
+    border-radius: 50px;
+}
+
+h1 {
+    border-style: double;
+}
+
+h1 {
+    border-color: black;
+}
+
+body {
+    color: brown;
+}
+
+header {
+    color: bisque;
+}
+
+h1 {
+    font-style: oblique;
+}
+h2 {font-style: inherit;}
+ header {color: burlywood;}
+ header {border-width: 10px;}
